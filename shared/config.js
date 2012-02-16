@@ -17,6 +17,6 @@ retrieved by the app from the cloud on start up.
 */
 
 var config = {
-  param1 : 'Initial value',
+  param1 : 'Starting value',
   param2 : true
 };
